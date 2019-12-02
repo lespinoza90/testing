@@ -19,6 +19,7 @@ exports.config = {
     // NPM script (see https://docs.npmjs.com/cli/run-script) then the current working
     // directory is where your package.json resides, so `wdio` will be called from there.
     //
+    //This is just another comment
     specs: [
         //'./test/specs/**/calculator_calculateAM.spec.js',
        // './test/specs/**/calculator_calculatePM.spec.js',

@@ -9,7 +9,3 @@ exports.LotContentValues= ['STP',
                            'LTS',
                            'LTG',
                            'VP']
-
-                           ///asdsadasd
-                           //sdadasdas
-                           //adasdasdasd

@@ -5,6 +5,7 @@ const LotContentValues= require ('../../helpers/testdata').LotContentValues;
 describe('Parking Calculator page Calculate cost',()=>{
     let TotalCost;
     let result;
+    ///
     //TODO: TO CREATE A FUNCTION TO RANDOM CHOOSE DATES AND HOURS
     it('should select Short-Term Parking PM time',()=>{
         CalculatorPage.open('http://adam.goucher.ca/parkcalc/');

@@ -9,4 +9,3 @@ exports.LotContentValues= ['STP',
                            'LTS',
                            'LTG',
                            'VP']
-//Justwriting some comments in here!

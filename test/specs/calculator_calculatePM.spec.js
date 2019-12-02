@@ -1,5 +1,4 @@
 const expect= require('chai').expect;
-//
 const CalculatorPage = require('../../calculator.pageobjects');
 const LotContent= require ('../../helpers/testdata').LotContent;
 const LotContentValues= require ('../../helpers/testdata').LotContentValues;

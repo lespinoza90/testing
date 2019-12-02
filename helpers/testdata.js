@@ -9,3 +9,5 @@ exports.LotContentValues= ['STP',
                            'LTS',
                            'LTG',
                            'VP']
+
+//This is a test, this commit should not be reflected

@@ -1,4 +1,3 @@
-//MakingComments!
 const expect= require('chai').expect;
 const CalculatorPage = require('../../calculator.pageobjects');
 let regex=/[!@#$%^&*' ']/g;

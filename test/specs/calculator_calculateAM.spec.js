@@ -1,7 +1,3 @@
-//Adding some more comments!!
-//Will make another change here
-//testing githammer!!
-//I am adding another comment!
 const expect= require('chai').expect;
 const CalculatorPage = require('../../calculator.pageobjects');
 let regex=/[!@#$%^&*' ']/g;

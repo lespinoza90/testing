@@ -1,7 +1,7 @@
 const expect= require('chai').expect;
 const CalculatorPage = require('../../calculator.pageobjects');
-const LotContent= require ('../../helpers/testdata').LotContent;
-const LotContentValues= require ('../../helpers/testdata').LotContentValues;
+const LotContent= require ('../../Sources/testdata').LotContent;
+const LotContentValues= require ('../../Sources/testdata').LotContentValues;
 describe('Parking Calculator page Calculate cost',()=>{
     let TotalCost;
     let result;

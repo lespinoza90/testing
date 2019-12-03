@@ -79,3 +79,5 @@ describe('Parking Calculator page Calculate cost',()=>{
         expect(result).to.equal('12.00');
     });
 });
+
+/////Testing
